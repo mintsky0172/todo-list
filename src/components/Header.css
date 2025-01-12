@@ -1,0 +1,7 @@
+.Header {
+  gap: 10px;
+}
+
+.Header > h1 {
+  color: rgb(255, 162, 162);
+}
